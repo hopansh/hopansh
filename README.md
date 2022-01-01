@@ -40,6 +40,10 @@
   
 [![Hopansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopansh&show_icons=true)](https://github.com/hopansh/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopansh&hide=shaderlab&langs_count=4)](https://github.com/hopansh/github-readme-stats)
+
+
+
 
 [website]: https://www.hopansh.ga
 [course]: http://vsCodeHero.com
