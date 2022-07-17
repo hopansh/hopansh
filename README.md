@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=Hopansh.ga&style=for-the-badge&url=https%3A%2F%2Fhopansh.ga)](https://hopansh.ga)
 
-## I'm a Student, Intern, and Developer!!
+## I'm a Software Engineer!!
 
 - 👀 I’m interested in Web/App Development
-- 🌱 I’m currently pursuing B.Tech from KIIT University
-- ⚡ I'm working as an intern at [HighRadius Corporation][highradius]
+- 🌱 I’m graduated with a degree in B.Tech(Information Technology) from KIIT University.
+- ⚡ I'm working as an Associate Software Engineer-1 at [HighRadius Corporation][highradius]
 - 📫 You can reach me on my email: hopanshgahlot@gmail.com
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goal: Finish the projects I start.
