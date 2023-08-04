@@ -1,6 +1,6 @@
 ### Hi there, I'm Hopansh Gahlot 👋 
 
-[![Website](https://img.shields.io/website?label=Hopansh.ga&style=for-the-badge&url=https%3A%2F%2Fhopansh.ga)](https://hopansh.netlify.app)
+[![Website](https://img.shields.io/website?label=hopansh.netlify.app&style=for-the-badge&url=https%3A%2F%2Fhopansh.netlify.app)](https://hopansh.netlify.app)
 
 ## I'm a Software Engineer!!
 
