@@ -1,6 +1,6 @@
 ### Hi there, I'm Hopansh Gahlot 👋 
 
-[![Website](https://img.shields.io/website?label=Hopansh.ga&style=for-the-badge&url=https%3A%2F%2Fhopansh.ga)](https://hopansh.ga)
+[![Website](https://img.shields.io/website?label=Hopansh.ga&style=for-the-badge&url=https%3A%2F%2Fhopansh.ga)](https://hopansh.netlify.app)
 
 ## I'm a Software Engineer!!
 
@@ -9,7 +9,7 @@
 - ⚡ I'm working as an Associate Software Engineer-1 at [HighRadius Corporation][highradius]
 - 📫 You can reach me on my email: hopanshgahlot@gmail.com
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goal: Finish the projects I start.
+- 🥅 2023 Goal: Finish the projects I start.
 - ⚡ Fun fact: I do [Portrait Photography][photographyWebsite]
 
 ### Connect with me:
@@ -45,7 +45,7 @@
 
 
 
-[website]: https://www.hopansh.ga
+[website]: https://hopansh.netlify.app
 [course]: http://vsCodeHero.com
 [instagram]: https://instagram.com/hopansh_gahlot
 [linkedin]: https://www.linkedin.com/in/hopansh-gahlot-596406183/
