@@ -47,7 +47,7 @@
 
 
 
-[website]: https://hopansh.netlify.app
+[website]: https://hopansh.github.io
 [course]: http://vsCodeHero.com
 [instagram]: https://instagram.com/hopansh_gahlot
 [linkedin]: https://www.linkedin.com/in/hopansh-gahlot-596406183/
