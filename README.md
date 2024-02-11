@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=hopansh.github.io&style=for-the-badge&url=https%3A%2F%2Fhopansh.github.io)](https://hopansh.github.io)
 
+![GitHub Views](https://komarev.com/ghpvc/?username=hopansh)
+
 ## I'm a Software Engineer!!
 
 - 👀 I’m interested in Web/App Development
