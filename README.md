@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in Web/App Development
 - 🌱 I’m graduated with a degree in B.Tech(Information Technology) from KIIT University.
-- ⚡ I'm working as an Associate Software Engineer-1 at [HighRadius Corporation][highradius]
+- ⚡ I'm working as an Associate Software Engineer-2 at [HighRadius Corporation][highradius]
 - 📫 You can reach me on my email: hopanshgahlot@gmail.com
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goal: Finish the projects I start.
