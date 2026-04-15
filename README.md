@@ -39,10 +39,9 @@
 <br />
 <br />
 
-![Hopansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopansh&show_icons=true&theme=transparent&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopansh&hide=shaderlab&langs_count=4)](https://github.com/hopansh/github-readme-stats)
-
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=hopansh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hopansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
