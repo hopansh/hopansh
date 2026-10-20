@@ -10,7 +10,7 @@
 - 🌱 I’m graduated with a degree in B.Tech(Information Technology) from KIIT University.
 - ⚡ I'm working as an Software Engineer at [Pegasystems][pegasystems]
 - 📫 You can reach me on my email: hopanshgahlot@gmail.com
-- 🥅 2025 Goal: Finish the projects I start.
+- 🥅 2026 Goal: Finish the projects I start.
 - ⚡ Fun fact: I do [Portrait Photography][photography]
 
 ### Connect with me:
